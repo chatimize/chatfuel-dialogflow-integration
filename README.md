@@ -1,6 +1,6 @@
-# DialogFlow ManyChat Integration
+# Chatfuel Dialogflow Integration
 
-Python flask server acting as a bridge between ManyChat and DialogFlow. Including ready to go Dockerfile.
+Python flask server acting as a bridge between Chatfuel and DialogFlow. Including ready to go Dockerfile.
 
 ## Optimized for Digital Ocean Droplets
 
